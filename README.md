@@ -2,7 +2,7 @@
 
 **Mohand Chabane Chaouche**, M.Sc. Communication Systems, Sorbonne Université
 
-Looking for a 6-month **RF / microwave / SDR** internship starting February 2027 · [LinkedIn](https://www.linkedin.com/in/mohandchabane-chaouche-9a515b2a7/)
+Looking for a 6-month **RF / microwave / SDR** internship starting February 2027 · [LinkedIn](https://www.linkedin.com/in/mohand-chabane-chaouche-9a515b2a7/)
 
 These are three hands-on labs from the course *RF & Microwave Engineering* (UM4EE206, M1, 2025–26).
 Each one covers design in a commercial EDA tool, measurement on real bench instruments, or both.
